@@ -1,0 +1,6 @@
+applicationType: default
+defaultPackage: com.github.anddd7
+testFramework: kotest
+sourceLanguage: kotlin
+buildTool: gradle_kotlin
+features: [annotation-api, app-name, gradle, http-client, jib, kotest, kotlin, kotlin-application, kubernetes, logback, management, netty-server, readme, shade, yaml]
